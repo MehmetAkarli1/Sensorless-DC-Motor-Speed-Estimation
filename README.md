@@ -15,6 +15,7 @@ This project demonstrates a sensorless method for estimating the speed of a brus
 
 ## 📁 Project Structure
 
+Sensorless_DC_Motor_Back_EMF_Estimation.pdf
 /firmware   → Source code (main.c)
 /hardware   → Circuit diagram, datasheets, and build setup
 /data       → Raw oscilloscope readouts (.txt) and excel file
