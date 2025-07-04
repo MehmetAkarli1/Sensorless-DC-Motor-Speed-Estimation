@@ -38,7 +38,7 @@ A full technical report is included describing:
 
 ## 📷 Media
 
-▶️ [Watch project demo on YouTube] (
+▶️ [Watch project demo on YouTube] ( https://youtube.com/shorts/sZ6Cgq4RGF8?feature=share )
 
 Photos the running hardware and LCD output are included in the repository and in the report.
 
